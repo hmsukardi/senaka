@@ -1,4 +1,4 @@
-baseURL = 'https://clever-beaver-5edf6f.netlify.app/'
+baseURL = 'https://dreamy-thompson-9e33a6.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-clarity'
