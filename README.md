@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6e5657e8-e8a6-4663-aa66-f2165358ef85/deploy-status)](https://app.netlify.com/sites/clever-beaver-5edf6f/deploys)
+
 # hugoBasicExample
 
 This repository offers an example site for [Hugo](https://gohugo.io/) and also it provides the default content for demos hosted on the [Hugo Themes Showcase](https://themes.gohugo.io/).
